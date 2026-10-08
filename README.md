@@ -1,1 +1,1 @@
-# All the problem solved in Binary search. 
+# All the problems solved in Binary search. 
