@@ -23,7 +23,7 @@ class TimeMap:
             else:
                 r=m-1
         return res
-
+        
         
 
            
